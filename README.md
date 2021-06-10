@@ -4,6 +4,9 @@ Complete modernization of the infrastructure, codebase of multiple separate soft
 Development of CI/CD pipelines.
 ###### Technologies: Java, Go, Php, MySQL, Gitlab CI, Docker, AWS
 
+### Toptal, 2020 -
+Became a member of the Toptal community as a developer.
+
 ### Splendex Kft., Budapest 2018 - 
 Working as a contractor, or directly with the team on various projects.
 
