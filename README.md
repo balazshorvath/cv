@@ -4,9 +4,6 @@ Complete modernization of the infrastructure, codebase of multiple separate soft
 Development of CI/CD pipelines.
 ###### Technologies: Java, Go, Php, MySQL, Gitlab CI, Docker, AWS
 
-### Toptal, 2020 -
-Became a member of the Toptal community as a developer.
-
 ### Splendex Kft., Budapest 2018 - 
 Working as a contractor, or directly with the team on various projects.
 
@@ -25,6 +22,9 @@ Working as a contractor, or directly with the team on various projects.
 - Developed a web service for a delivery , with integration to multiple eCommerce apis.
   ###### Techs.: Dotnet Core, C#, SQL Server.
   ###### APIs: Shopify, Shoprenter, WooCommerce, UNAS, eMag.
+
+### Toptal, 2018 -
+Became a member of the Toptal community as a developer.
 
 ### Nuance-Recognita  Ltd., Budapest 2017 — 2018
 Developed a printer management software in Java EE.
