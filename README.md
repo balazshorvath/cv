@@ -1,4 +1,9 @@
 ## Employment/Project History
+
+### Odum Research, London 2021 -
+Integration of various crypto exchange apis (both rest and websocket) in Go.
+###### Technologies: Go
+
 ### Pressenger Kft., Budapest 2021 - 
 Complete modernization of the infrastructure, codebase of multiple separate software components.
 Development of CI/CD pipelines.
