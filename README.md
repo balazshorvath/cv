@@ -1,15 +1,18 @@
 ## Employment/Project History
 
 ### Odum Research, London 2021 -
-Integration of various crypto exchange apis (both rest and websocket) in Go.
+- Integration of various crypto exchange apis (both rest and websocket) in Go.
+- Implementation of internal monitoring, benchamrking, automated testing, simulation systems.
+- Optimization of network, parsing, or any other parts of the HFT code.
+
 ###### Technologies: Go
 
-### Pressenger Kft., Budapest 2021 - 
+### Pressenger Kft., Budapest 2021 - 2021
 Complete modernization of the infrastructure, codebase of multiple separate software components.
 Development of CI/CD pipelines.
 ###### Technologies: Java, Go, Php, MySQL, Gitlab CI, Docker, AWS
 
-### Splendex Kft., Budapest 2018 - 
+### Splendex Kft., Budapest 2018 - 2021
 Working as a contractor, or directly with the team on various projects.
 
 - Developed a social idea sharing web application using Spring Boot, Java 8. The platform’s main feature is the organization of idea competitions, where enployees may submit solutions to problems and can collaborate with the organizers to win the competition.
