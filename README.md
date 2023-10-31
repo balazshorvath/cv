@@ -1,9 +1,11 @@
 ## Employment/Project History
 
 ### Odum Research, London 2021 -
-- Integration of various crypto exchange apis (both rest and websocket) in Go.
+I help building a trading paltform and while doing so, I was/am working on a bunch of different, interesting projects that are supporting, or are directly part of a trading platform.
+
+- Integration of various crypto exchange apis (rest, websocket, FIX) in Go.
 - Implementation of internal monitoring, benchamrking, automated testing, simulation systems, and other tools.
-- Optimization of network, parsing, or any other parts of the HFT code.
+- Optimization of network code, message parsing, or any other parts of the High Frequency Trading code.
 
 ###### Technologies: Go, Python, MongoDB, BigQuery, Gitlab CI, Docker, GCloud, AWS, Grafana
 
