@@ -2,10 +2,10 @@
 
 ### Odum Research, London 2021 -
 - Integration of various crypto exchange apis (both rest and websocket) in Go.
-- Implementation of internal monitoring, benchamrking, automated testing, simulation systems.
+- Implementation of internal monitoring, benchamrking, automated testing, simulation systems, and other tools.
 - Optimization of network, parsing, or any other parts of the HFT code.
 
-###### Technologies: Go
+###### Technologies: Go, Python, MongoDB, BigQuery, Gitlab CI, Docker, GCloud, AWS, Grafana
 
 ### Pressenger Kft., Budapest 2021 - 2021
 Complete modernization of the infrastructure, codebase of multiple separate software components.
