@@ -7,7 +7,7 @@ I help building a trading paltform and while doing so, I was/am working on a bun
 - Implementation of internal monitoring, benchamrking, automated testing, simulation systems, and other tools.
 - Optimization of network code, message parsing, or any other parts of the High Frequency Trading code.
 
-###### Technologies: Go, Python, MongoDB, BigQuery, Gitlab CI, Docker, GCloud, AWS, Grafana
+###### Technologies: Go, Python, MongoDB, BigQuery, Dataflow, Gitlab CI, Docker, Kubernetes, GCloud, AWS, Grafana, DPDK
 
 ### Pressenger Kft., Budapest 2021 - 2021
 Complete modernization of the infrastructure, codebase of multiple separate software components.
