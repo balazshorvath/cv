@@ -76,3 +76,8 @@ Based on available studies, I compared different neural network setups with diff
 
 ###### Technologies: Go (data parsing/processing), Python (MLP training - Tensorflow)
 
+## Contact
+Location: Budapest  
+Languages: English, German  
+Phone Number: +36307338161  
+Email: balazs.peter.horvath@gmail.com  
