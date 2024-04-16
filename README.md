@@ -59,7 +59,7 @@ Built a website using an internal framework. Supported a legacy eCommerce websit
 ###### Technologies: PHP, HTML, JavaScript, jQuery, CSS, MySQL, SVN
 
 ## Education
-### Bachelor's Degree - Computer Engineering - University of Pécs
+### Bachelor's Degree - Computer Engineering - University of Pécs (2012 - 2016)
 My thesis project was an MMORPG server which was completed in collaboration with another developer.
 The server was developed over the course of 1 1/2 years and included building the application from the ground up three times. We originally used C/C++ and later decided to use Unity and Java.
 
@@ -69,8 +69,9 @@ The result was pretty simple: a user could log in, create a character, and find 
 
 ###### Technologies: C/C++, Java, TCP/UDP
 
-### Master's Degree - Computer Engineering - University of Pécs
+### Master's Degree - Computer Engineering - University of Pécs (2017 - 2019)
 My thesis for my master's degree was to develop a classification method for recognizing limb movement from EMG signals collected specifically with a MyoArmband.
+
 Based on available studies, I compared different neural network setups with different features of EMG signals.
 
 ###### Technologies: Go (data parsing/processing), Python (MLP training - Tensorflow)
