@@ -1,3 +1,12 @@
+## Introduction
+I am a Software Engineer who specializes in server development. I have expertise in multithreaded applications, networking, and web APIs.
+
+I am a versatile developer, usually using multiple programming languages and tools, but here is a list of technologies I am most familiar with:
+
+|                              Go                              |                                Docker                                 |                                   SQL                                    |                            AWS/GCP                            |
+|:------------------------------------------------------------:|:---------------------------------------------------------------------:|:------------------------------------------------------------------------:|:-------------------------------------------------------------:|
+| Most recent and up-to-date experience (also preferred/loved) | I feel like containerization of a service has become a default by now, I am always using Docker | Spent hours writing complex BigQuery scripts recently, also familiar with PSQL (Timescale) | Have always been using either platform in the past couple of years |
+
 ## Employment/Project History
 
 ### Odum Research, London 2021 -
