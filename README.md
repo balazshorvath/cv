@@ -15,7 +15,7 @@ This CV is also available on [GitHub](https://github.com/balazshorvath/cv).
 I specialize in server development with expertise in multithreaded applications, networking, and web APIs.
 
 Years of experience across diverse, high-pressure industries shaped me into a versatile developer.
-Since learning to program, I've used hobby projects to test ideas and explore new technologies.
+Since I started to program, I've used hobby projects to learn, test ideas and explore new technologies.
 
 Recently, I developed a trading system and explored event sourcing ledger designs. 
 During this project, I studied TigerBeetle and implemented a message queue on top of it for the event-sourced ledger.
