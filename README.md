@@ -91,7 +91,7 @@ Created a C library interface definition in AUTOSAR for automotive software.
 ###### Technologies: C, AUTOSAR, DOORS
 
 ### Java Programmer, MI Software, Budapest 2016 - 2016
-Responsibilities included:
+
 - Developed features for a management/financial application.
 - Created an application for tracking company and people relationships.
 - Supported a back-end for a mobile service provider's mobile application.
