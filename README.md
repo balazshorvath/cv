@@ -4,7 +4,7 @@
 |:-----------------------------------------------------------------------:|:-------------------------------------------------------------------:|
 |                                Location                                 |                              Budapest                               | 
 |                                Languages                                |                           English, German                           | 
-|                              Phone Number                               |                            +36307338161                             | 
+ 
 |                                  Email                                  |                   balazs.peter.horvath@gmail.com                    | 
 
 
@@ -24,10 +24,10 @@ I am a versatile developer, usually using multiple programming languages and too
 ## Employment/Project History
 
 ### Odum Research, London 2021 -
-I help building a trading paltform and while doing so, I was/am working on a bunch of different, interesting projects that are supporting, or are directly part of a trading platform.
+I help building a trading platform and while doing so, I was/am working on a bunch of different, interesting projects that are supporting, or are directly part of a trading platform.
 
 - Integration of various crypto exchange apis (rest, websocket, FIX) in Go.
-- Implementation of internal monitoring, benchamrking, automated testing, simulation systems, and other tools.
+- Implementation of internal monitoring, benchmarking, automated testing, simulation systems, and other tools.
 - Optimization of network code, message parsing, or any other parts of the High Frequency Trading code.
 
 ###### Technologies: Go, Python, MongoDB, BigQuery, Dataflow, Gitlab CI, Docker, Kubernetes, GCloud, AWS, Grafana, DPDK
@@ -41,7 +41,7 @@ Development of CI/CD pipelines.
 ### Splendex Kft., Budapest 2018 - 2021
 Working as a contractor, or directly with the team on various projects.
 
-- Developed a social idea sharing web application using Spring Boot, Java 8. The platform’s main feature is the organization of idea competitions, where enployees may submit solutions to problems and can collaborate with the organizers to win the competition.
+- Developed a social idea sharing web application using Spring Boot, Java 8. The platform’s main feature is the organization of idea competitions, where employees may submit solutions to problems and can collaborate with the organizers to win the competition.
 
   ###### Technologies: Docker, Jenkins pipeline, SQL Server, Liquibase, ADFS SAML.
 - Supported and developed features for a web application written in Java 8, Spring boot.
@@ -59,7 +59,7 @@ Working as a contractor, or directly with the team on various projects.
   ###### Technologies: Docker, Postgres, Jira API, Jenkins API, Elasticsearch, synchronization with additional internal tools' APIs.
 - Developed a web service for a delivery , with integration to multiple eCommerce apis.
   
-  ###### Techs.: Dotnet Core, C#, SQL Server.
+  ###### Technologies: Dotnet Core, C#, SQL Server.
     
   ###### APIs: Shopify, Shoprenter, WooCommerce, UNAS, eMag.
 
