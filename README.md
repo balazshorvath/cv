@@ -21,8 +21,9 @@ I am a versatile developer, usually using multiple programming languages and too
 | Most recent and up-to-date experience (also preferred/loved) | I feel like containerization of a service has become a default by now | Primarily worked with PSQL recently | Have always been using either platform in the past years |
 
 I usually have some sort of a hobby project to test new technologies, ideas.
-In recent years I have been working on a trading system, tested some design ideas for an event sourcing ledger as part of that project learned about and used TigerBeetle. 
-As a slightly less useful hobby, I also like to build computers, servers for home use.
+In recent years I have been working on a trading system, tested some design ideas for an event sourcing ledger.
+As part of that project learned about TigerBeetle and for fun, implemented a message queue using TigerBeetle for this event sourced ledger. 
+As maybe a slightly less exciting hobby, I also like to build computers (home servers, or just for personal use).
 
 ## Employment/Project History
 
