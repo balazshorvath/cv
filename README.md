@@ -12,7 +12,7 @@ _[LinkedIn](https://www.linkedin.com/in/balazs-peter-horvath-275121110/) - [Gith
 This CV is also available on [GitHub](https://github.com/balazshorvath/cv).
 
 ## Introduction
-I specialize in server development with expertise in multithreaded applications, networking, and web APIs.
+I specialize in backend development with expertise in multithreaded applications, networking, and web APIs.
 
 Years of experience across diverse, high-pressure industries shaped me into a versatile developer.
 Since I started to program, I've used hobby projects to learn, test ideas and explore new technologies.
